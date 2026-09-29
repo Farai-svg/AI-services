@@ -2,8 +2,7 @@
 
 A light AI agent with a chat web interface. No framework. Works with any OpenAI-compatible API.
 
-Features: chat, web search, RAG on your documents, long-term memory, a sandboxed Python
-code interpreter with inline charts, specialist sub-agents with task delegation, and MCP tool servers.
+Features: chat, web search, RAG on your documents, long-term memory, a sandboxed Python code interpreter with inline charts, specialist sub-agents with task delegation, and MCP tool servers.
 
 > Full system design with diagrams: [ARCHITECTURE.md](ARCHITECTURE.md)
 
